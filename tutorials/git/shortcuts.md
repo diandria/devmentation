@@ -8,7 +8,7 @@ Para abrir no Visual Code
 `$ git config --global --editor`
 
 - Na IDE:
-```json
+```
 [user]
 	email = your_name@mail.com
 	name = Your Name
