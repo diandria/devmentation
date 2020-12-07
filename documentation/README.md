@@ -18,3 +18,6 @@
 - **Object - values:** https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/values
 - **Object - keys:** https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/keys
 - **Object - assign:** https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/assign
+
+### Git
+- **Conventional Commits:** https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/
