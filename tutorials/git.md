@@ -1,4 +1,4 @@
-# Git
+# GIT
 ## Shortcuts
 - No terminal
 Para abrir no Visual Code
