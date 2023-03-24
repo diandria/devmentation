@@ -5,7 +5,7 @@ Para abrir no Visual Code
 `$ git config --global core.editor code`
 
 	Para abrir no VIM
-`$ git config --global --editor`
+`$ git config --global --edit`
 
 - Na IDE:
 ```
